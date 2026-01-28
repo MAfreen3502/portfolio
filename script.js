@@ -1,4 +1,5 @@
 /* ================= HERO TEXT FADE-IN ================= */
+console.log("JS loaded");
 
 const heroText = document.querySelector(".hero h1");
 
