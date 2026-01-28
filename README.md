@@ -1,0 +1,1 @@
+This project is a simple responsive website created using HTML, CSS, and JavaScript. The layout adjusts for mobile and desktop screens using media queries. The project is hosted using GitHub Pages and the source code is available in this repository.
